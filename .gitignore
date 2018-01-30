@@ -1,2 +1,6 @@
 /src/Gelf.NET.v12.suo
 /src/Gelf/Gelf.csproj.user
+.idea
+bin
+debug
+packages
